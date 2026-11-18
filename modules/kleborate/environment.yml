@@ -1,0 +1,13 @@
+channels:
+- conda-forge
+- bioconda
+dependencies:
+- python=3.9
+- biopython=1.85
+- minimap2
+- mash
+- ezclermont
+- ectyper
+- ncbi-stxtyper
+- ncbi-amrfinderplus
+- kleborate=3.2.4
